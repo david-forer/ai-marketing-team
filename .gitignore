@@ -1,0 +1,17 @@
+# Internal working notes
+install-kit/notes/
+
+# Real client configs and client folders never go in this repo
+install-kit/client.json
+install-kit/clients/
+*.client.json
+
+# Files the demo upload page moves aside
+demo/data/_replaced/
+
+# Python and OS clutter
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env

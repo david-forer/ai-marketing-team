@@ -1,0 +1,18 @@
+{
+  "COMPANY": "Fenwick Row Bookkeeping (fictional example)",
+  "FOUNDER": "Dana Okafor",
+  "OPERATOR": "Jordan Lee",
+  "DESIGNER": "Sam Ruiz",
+  "TIMEZONE": "Eastern Time",
+  "BRAIN_LOCATION": "the Marketing Brain folder in Google Drive",
+  "CALLS_SOURCE": "the Call Transcripts folder in Google Drive",
+  "SUPPORT_SOURCE": "emails labeled Support in Gmail",
+  "ADS_SOURCE": "the daily ad report sheet in Google Drive",
+  "VISITOR_SOURCE": "Leadfeeder alert emails in Gmail",
+  "EMAIL_DRAFTS": "Gmail drafts",
+  "COMPETITOR_URLS": "https://example.com/pricing, https://example.org/pricing",
+  "CATEGORY_PROMPT": "What are the best bookkeeping services for HVAC and plumbing contractors?",
+  "CONVERSION_NAME": "booked Job Cost Check",
+  "MIN_PRICING_SECONDS": "60",
+  "agents": [1, 2, 3, 4, 8]
+}

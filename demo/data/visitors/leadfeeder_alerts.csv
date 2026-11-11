@@ -1,0 +1,5 @@
+alert_date,company,domain_is_fictional,industry,est_revenue,city,state,pages_viewed,pricing_page_visits,time_on_pricing_seconds,source
+2026-11-04,Ironwood Heating and Air,yes,HVAC,$5M,Dayton,OH,/pricing | /blog/servicetitan-quickbooks-never-match,2,214,Google organic
+2026-11-04,Cobalt Drain and Plumbing,yes,Plumbing,$3M,Louisville,KY,/pricing,1,41,Google Ads
+2026-11-04,Redbird Electric,yes,Electrical,$12M,Indianapolis,IN,/pricing | /job-cost | /about,3,306,LinkedIn Ads
+2026-11-04,Northgate Community College,yes,Education,unknown,Columbus,OH,/pricing | /blog/what-is-accrual-accounting,1,28,Google organic

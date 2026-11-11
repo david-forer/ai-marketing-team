@@ -1,0 +1,204 @@
+date,platform,ad_id,headline,impressions,clicks,spend_usd,signups
+2026-10-08,Google,G-01,Bookkeeping for HVAC Contractors,191,13,93.77,1
+2026-10-08,Google,G-02,ServiceTitan QuickBooks Reconciliation,132,10,53.19,2
+2026-10-08,Google,G-03,Outsourced Bookkeeping Services,319,10,79.65,0
+2026-10-08,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1139,10,97.24,0
+2026-10-08,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1786,7,74.19,0
+2026-10-08,Meta,M-01,Tax Tips Every Contractor Should Know,1467,23,39.95,0
+2026-10-08,Meta,M-02,Know Your Profit by Job,1866,26,50.83,0
+2026-10-09,Google,G-01,Bookkeeping for HVAC Contractors,180,12,89.70,1
+2026-10-09,Google,G-02,ServiceTitan QuickBooks Reconciliation,128,9,53.27,2
+2026-10-09,Google,G-03,Outsourced Bookkeeping Services,279,9,76.91,0
+2026-10-09,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1059,9,84.43,0
+2026-10-09,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1701,7,83.27,0
+2026-10-09,Meta,M-01,Tax Tips Every Contractor Should Know,2021,31,50.82,0
+2026-10-09,Meta,M-02,Know Your Profit by Job,1651,21,47.11,0
+2026-10-10,Google,G-01,Bookkeeping for HVAC Contractors,111,7,54.38,0
+2026-10-10,Google,G-02,ServiceTitan QuickBooks Reconciliation,67,5,30.00,0
+2026-10-10,Google,G-03,Outsourced Bookkeeping Services,126,4,35.29,0
+2026-10-10,LinkedIn,L-01,Your CPA Is a Rearview Mirror,556,5,40.11,0
+2026-10-10,LinkedIn,L-02,Accounting Solutions for Growing Businesses,683,3,39.23,0
+2026-10-10,Meta,M-01,Tax Tips Every Contractor Should Know,1010,16,28.20,0
+2026-10-10,Meta,M-02,Know Your Profit by Job,733,11,25.60,0
+2026-10-11,Google,G-01,Bookkeeping for HVAC Contractors,113,7,58.36,0
+2026-10-11,Google,G-02,ServiceTitan QuickBooks Reconciliation,89,6,36.63,0
+2026-10-11,Google,G-03,Outsourced Bookkeeping Services,117,4,36.42,0
+2026-10-11,LinkedIn,L-01,Your CPA Is a Rearview Mirror,708,6,48.53,1
+2026-10-11,LinkedIn,L-02,Accounting Solutions for Growing Businesses,727,3,37.49,0
+2026-10-11,Meta,M-01,Tax Tips Every Contractor Should Know,966,16,22.94,0
+2026-10-11,Meta,M-02,Know Your Profit by Job,918,13,29.21,0
+2026-10-12,Google,G-01,Bookkeeping for HVAC Contractors,182,12,82.81,0
+2026-10-12,Google,G-02,ServiceTitan QuickBooks Reconciliation,126,9,51.58,1
+2026-10-12,Google,G-03,Outsourced Bookkeeping Services,246,8,72.26,0
+2026-10-12,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1059,9,79.01,1
+2026-10-12,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1529,6,67.99,0
+2026-10-12,Meta,M-01,Tax Tips Every Contractor Should Know,1663,28,43.57,0
+2026-10-12,Meta,M-02,Know Your Profit by Job,1252,19,43.40,0
+2026-10-13,Google,G-01,Bookkeeping for HVAC Contractors,228,13,89.23,2
+2026-10-13,Google,G-02,ServiceTitan QuickBooks Reconciliation,130,10,65.78,2
+2026-10-13,Google,G-03,Outsourced Bookkeeping Services,239,8,67.07,0
+2026-10-13,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1032,10,86.92,0
+2026-10-13,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1655,7,85.94,0
+2026-10-13,Meta,M-01,Tax Tips Every Contractor Should Know,2029,32,49.87,0
+2026-10-13,Meta,M-02,Know Your Profit by Job,1367,20,43.97,0
+2026-10-14,Google,G-01,Bookkeeping for HVAC Contractors,194,13,102.75,0
+2026-10-14,Google,G-02,ServiceTitan QuickBooks Reconciliation,136,10,54.26,0
+2026-10-14,Google,G-03,Outsourced Bookkeeping Services,270,10,80.20,0
+2026-10-14,LinkedIn,L-01,Your CPA Is a Rearview Mirror,841,8,78.24,1
+2026-10-14,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1977,8,79.17,0
+2026-10-14,Meta,M-01,Tax Tips Every Contractor Should Know,1853,30,48.15,0
+2026-10-14,Meta,M-02,Know Your Profit by Job,1906,26,54.38,0
+2026-10-15,Google,G-01,Bookkeeping for HVAC Contractors,229,13,95.78,2
+2026-10-15,Google,G-02,ServiceTitan QuickBooks Reconciliation,151,10,66.62,1
+2026-10-15,Google,G-03,Outsourced Bookkeeping Services,240,8,70.69,0
+2026-10-15,LinkedIn,L-01,Your CPA Is a Rearview Mirror,959,8,73.04,0
+2026-10-15,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1758,7,77.37,0
+2026-10-15,Meta,M-01,Tax Tips Every Contractor Should Know,1873,32,47.59,0
+2026-10-15,Meta,M-02,Know Your Profit by Job,1679,23,50.90,1
+2026-10-16,Google,G-01,Bookkeeping for HVAC Contractors,234,14,107.88,1
+2026-10-16,Google,G-02,ServiceTitan QuickBooks Reconciliation,114,8,52.86,0
+2026-10-16,Google,G-03,Outsourced Bookkeeping Services,249,8,70.42,0
+2026-10-16,LinkedIn,L-01,Your CPA Is a Rearview Mirror,920,9,80.58,0
+2026-10-16,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1652,6,65.45,0
+2026-10-16,Meta,M-01,Tax Tips Every Contractor Should Know,1793,27,43.27,0
+2026-10-16,Meta,M-02,Know Your Profit by Job,1604,23,46.06,0
+2026-10-17,Google,G-01,Bookkeeping for HVAC Contractors,120,7,53.84,0
+2026-10-17,Google,G-02,ServiceTitan QuickBooks Reconciliation,75,5,28.29,0
+2026-10-17,Google,G-03,Outsourced Bookkeeping Services,113,4,35.28,0
+2026-10-17,LinkedIn,L-01,Your CPA Is a Rearview Mirror,638,6,53.42,1
+2026-10-17,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1045,4,41.23,0
+2026-10-17,Meta,M-01,Tax Tips Every Contractor Should Know,1059,16,24.55,0
+2026-10-17,Meta,M-02,Know Your Profit by Job,1055,14,30.40,0
+2026-10-18,Google,G-01,Bookkeeping for HVAC Contractors,122,7,51.54,0
+2026-10-18,Google,G-02,ServiceTitan QuickBooks Reconciliation,83,6,37.46,0
+2026-10-18,Google,G-03,Outsourced Bookkeeping Services,119,4,40.74,0
+2026-10-18,LinkedIn,L-01,Your CPA Is a Rearview Mirror,545,5,43.91,0
+2026-10-18,LinkedIn,L-02,Accounting Solutions for Growing Businesses,924,4,44.35,0
+2026-10-18,Meta,M-01,Tax Tips Every Contractor Should Know,1193,18,27.72,0
+2026-10-18,Meta,M-02,Know Your Profit by Job,1107,16,30.91,0
+2026-10-19,Google,G-01,Bookkeeping for HVAC Contractors,206,13,102.85,0
+2026-10-19,Google,G-02,ServiceTitan QuickBooks Reconciliation,135,10,62.07,1
+2026-10-19,Google,G-03,Outsourced Bookkeeping Services,195,7,66.56,0
+2026-10-19,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1124,10,86.88,0
+2026-10-19,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1795,7,75.99,0
+2026-10-19,Meta,M-01,Tax Tips Every Contractor Should Know,2059,36,51.59,0
+2026-10-19,Meta,M-02,Know Your Profit by Job,1565,23,44.03,0
+2026-10-20,Google,G-01,Bookkeeping for HVAC Contractors,202,13,98.99,1
+2026-10-20,Google,G-02,ServiceTitan QuickBooks Reconciliation,167,12,62.76,1
+2026-10-20,Google,G-03,Outsourced Bookkeeping Services,194,7,63.01,0
+2026-10-20,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1023,10,91.34,0
+2026-10-20,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1599,6,69.53,0
+2026-10-20,Meta,M-01,Tax Tips Every Contractor Should Know,1513,24,39.96,0
+2026-10-20,Meta,M-02,Know Your Profit by Job,1701,25,53.25,0
+2026-10-21,Google,G-01,Bookkeeping for HVAC Contractors,282,16,108.97,0
+2026-10-21,Google,G-02,ServiceTitan QuickBooks Reconciliation,147,10,54.55,1
+2026-10-21,Google,G-03,Outsourced Bookkeeping Services,223,7,59.60,0
+2026-10-21,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1020,10,97.55,1
+2026-10-21,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1381,6,77.02,0
+2026-10-21,Meta,M-01,Tax Tips Every Contractor Should Know,1656,25,41.33,0
+2026-10-21,Meta,M-02,Know Your Profit by Job,1549,23,48.99,1
+2026-10-22,Google,G-01,Bookkeeping for HVAC Contractors,198,13,99.27,1
+2026-10-22,Google,G-02,ServiceTitan QuickBooks Reconciliation,165,12,65.81,0
+2026-10-22,Google,G-03,Outsourced Bookkeeping Services,290,9,73.85,0
+2026-10-22,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1228,10,88.02,0
+2026-10-22,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1623,7,85.02,0
+2026-10-22,Meta,M-01,Tax Tips Every Contractor Should Know,1983,32,49.79,0
+2026-10-22,Meta,M-02,Know Your Profit by Job,1732,25,53.27,0
+2026-10-23,Google,G-01,Bookkeeping for HVAC Contractors,210,14,108.05,0
+2026-10-23,Google,G-02,ServiceTitan QuickBooks Reconciliation,154,12,65.86,1
+2026-10-23,Google,G-03,Outsourced Bookkeeping Services,250,8,64.84,0
+2026-10-23,LinkedIn,L-01,Your CPA Is a Rearview Mirror,849,8,76.71,0
+2026-10-23,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1367,5,66.49,0
+2026-10-23,Meta,M-01,Tax Tips Every Contractor Should Know,1783,29,48.40,0
+2026-10-23,Meta,M-02,Know Your Profit by Job,1745,23,50.74,1
+2026-10-24,Google,G-01,Bookkeeping for HVAC Contractors,105,7,53.67,0
+2026-10-24,Google,G-02,ServiceTitan QuickBooks Reconciliation,89,6,37.28,0
+2026-10-24,Google,G-03,Outsourced Bookkeeping Services,126,4,37.33,0
+2026-10-24,LinkedIn,L-01,Your CPA Is a Rearview Mirror,583,5,42.23,2
+2026-10-24,LinkedIn,L-02,Accounting Solutions for Growing Businesses,981,4,42.55,0
+2026-10-24,Meta,M-01,Tax Tips Every Contractor Should Know,1209,18,27.24,0
+2026-10-24,Meta,M-02,Know Your Profit by Job,850,13,24.10,0
+2026-10-25,Google,G-01,Bookkeeping for HVAC Contractors,128,8,59.09,0
+2026-10-25,Google,G-02,ServiceTitan QuickBooks Reconciliation,83,6,35.60,0
+2026-10-25,Google,G-03,Outsourced Bookkeeping Services,124,4,39.88,0
+2026-10-25,LinkedIn,L-01,Your CPA Is a Rearview Mirror,688,6,52.93,0
+2026-10-25,LinkedIn,L-02,Accounting Solutions for Growing Businesses,694,3,37.93,0
+2026-10-25,Meta,M-01,Tax Tips Every Contractor Should Know,1245,19,27.79,0
+2026-10-25,Meta,M-02,Know Your Profit by Job,948,13,27.88,0
+2026-10-26,Google,G-01,Bookkeeping for HVAC Contractors,265,15,105.06,2
+2026-10-26,Google,G-02,ServiceTitan QuickBooks Reconciliation,135,10,62.37,2
+2026-10-26,Google,G-03,Outsourced Bookkeeping Services,216,7,63.34,0
+2026-10-26,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1259,11,94.11,0
+2026-10-26,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1382,6,65.58,0
+2026-10-26,Meta,M-01,Tax Tips Every Contractor Should Know,1866,28,44.73,0
+2026-10-26,Meta,M-02,Know Your Profit by Job,1819,23,47.97,0
+2026-10-27,Google,G-01,Bookkeeping for HVAC Contractors,251,15,108.54,0
+2026-10-27,Google,G-02,ServiceTitan QuickBooks Reconciliation,135,9,54.67,0
+2026-10-27,Google,G-03,Outsourced Bookkeeping Services,221,8,69.64,0
+2026-10-27,LinkedIn,L-01,Your CPA Is a Rearview Mirror,985,8,78.17,0
+2026-10-27,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1249,5,67.41,0
+2026-10-27,Meta,M-01,Tax Tips Every Contractor Should Know,1553,26,44.36,0
+2026-10-27,Meta,M-02,Know Your Profit by Job,1670,24,52.23,0
+2026-10-28,Google,G-01,Bookkeeping for HVAC Contractors,224,15,107.30,0
+2026-10-28,Google,G-02,ServiceTitan QuickBooks Reconciliation,139,10,58.71,2
+2026-10-28,Google,G-03,Outsourced Bookkeeping Services,248,8,66.77,0
+2026-10-28,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1052,9,73.33,0
+2026-10-28,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1461,6,74.77,0
+2026-10-28,Meta,M-01,Tax Tips Every Contractor Should Know,1449,25,40.47,0
+2026-10-28,Meta,M-02,Know Your Profit by Job,1637,24,54.23,2
+2026-10-29,Google,G-01,Bookkeeping for HVAC Contractors,215,14,100.01,0
+2026-10-29,Google,G-02,ServiceTitan QuickBooks Reconciliation,164,11,66.80,0
+2026-10-29,Google,G-03,Outsourced Bookkeeping Services,194,7,65.77,0
+2026-10-29,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1099,9,76.47,0
+2026-10-29,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1563,6,72.94,0
+2026-10-29,LinkedIn,L-03,I Find Out I Lost Money Six Weeks Later,755,9,76.15,1
+2026-10-29,Meta,M-01,Tax Tips Every Contractor Should Know,1956,33,48.97,0
+2026-10-29,Meta,M-02,Know Your Profit by Job,1889,26,57.38,0
+2026-10-30,Google,G-01,Bookkeeping for HVAC Contractors,171,11,84.08,0
+2026-10-30,Google,G-02,ServiceTitan QuickBooks Reconciliation,155,11,57.12,1
+2026-10-30,Google,G-03,Outsourced Bookkeeping Services,243,8,64.33,0
+2026-10-30,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1074,10,82.45,0
+2026-10-30,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1461,6,73.88,0
+2026-10-30,LinkedIn,L-03,I Find Out I Lost Money Six Weeks Later,650,8,71.52,1
+2026-10-30,Meta,M-01,Tax Tips Every Contractor Should Know,1959,33,48.39,0
+2026-10-30,Meta,M-02,Know Your Profit by Job,1997,27,52.91,0
+2026-10-31,Google,G-01,Bookkeeping for HVAC Contractors,125,8,57.04,1
+2026-10-31,Google,G-02,ServiceTitan QuickBooks Reconciliation,73,5,30.17,0
+2026-10-31,Google,G-03,Outsourced Bookkeeping Services,141,5,39.91,0
+2026-10-31,LinkedIn,L-01,Your CPA Is a Rearview Mirror,557,5,43.31,0
+2026-10-31,LinkedIn,L-02,Accounting Solutions for Growing Businesses,722,3,35.09,0
+2026-10-31,LinkedIn,L-03,I Find Out I Lost Money Six Weeks Later,323,4,38.13,0
+2026-10-31,Meta,M-01,Tax Tips Every Contractor Should Know,1073,18,27.48,0
+2026-10-31,Meta,M-02,Know Your Profit by Job,1075,16,30.98,2
+2026-11-01,Google,G-01,Bookkeeping for HVAC Contractors,113,7,53.38,1
+2026-11-01,Google,G-02,ServiceTitan QuickBooks Reconciliation,98,7,37.57,2
+2026-11-01,Google,G-03,Outsourced Bookkeeping Services,143,5,43.78,0
+2026-11-01,LinkedIn,L-01,Your CPA Is a Rearview Mirror,614,5,42.83,1
+2026-11-01,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1016,4,44.01,0
+2026-11-01,LinkedIn,L-03,I Find Out I Lost Money Six Weeks Later,371,5,39.14,1
+2026-11-01,Meta,M-01,Tax Tips Every Contractor Should Know,899,15,25.42,0
+2026-11-01,Meta,M-02,Know Your Profit by Job,781,12,25.45,0
+2026-11-02,Google,G-01,Bookkeeping for HVAC Contractors,251,14,106.77,0
+2026-11-02,Google,G-02,ServiceTitan QuickBooks Reconciliation,153,10,60.38,1
+2026-11-02,Google,G-03,Outsourced Bookkeeping Services,174,6,60.72,0
+2026-11-02,LinkedIn,L-01,Your CPA Is a Rearview Mirror,943,9,73.11,1
+2026-11-02,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1740,7,71.26,0
+2026-11-02,LinkedIn,L-03,I Find Out I Lost Money Six Weeks Later,837,11,89.76,2
+2026-11-02,Meta,M-01,Tax Tips Every Contractor Should Know,1866,29,44.94,0
+2026-11-02,Meta,M-02,Know Your Profit by Job,1788,24,51.96,0
+2026-11-03,Google,G-01,Bookkeeping for HVAC Contractors,171,11,82.12,1
+2026-11-03,Google,G-02,ServiceTitan QuickBooks Reconciliation,128,9,54.20,1
+2026-11-03,Google,G-03,Outsourced Bookkeeping Services,228,8,68.10,0
+2026-11-03,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1023,10,93.56,1
+2026-11-03,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1923,7,74.82,0
+2026-11-03,LinkedIn,L-03,I Find Out I Lost Money Six Weeks Later,667,9,71.69,0
+2026-11-03,Meta,M-01,Tax Tips Every Contractor Should Know,1893,33,51.70,0
+2026-11-03,Meta,M-02,Know Your Profit by Job,1745,22,46.21,0
+2026-11-04,Google,G-01,Bookkeeping for HVAC Contractors,172,11,85.99,1
+2026-11-04,Google,G-02,ServiceTitan QuickBooks Reconciliation,155,11,67.97,0
+2026-11-04,Google,G-03,Outsourced Bookkeeping Services,173,6,60.48,0
+2026-11-04,LinkedIn,L-01,Your CPA Is a Rearview Mirror,1269,11,96.55,1
+2026-11-04,LinkedIn,L-02,Accounting Solutions for Growing Businesses,1612,7,78.20,0
+2026-11-04,LinkedIn,L-03,I Find Out I Lost Money Six Weeks Later,852,10,74.05,2
+2026-11-04,Meta,M-01,Tax Tips Every Contractor Should Know,1728,27,41.47,0
+2026-11-04,Meta,M-02,Know Your Profit by Job,1852,25,54.34,0
